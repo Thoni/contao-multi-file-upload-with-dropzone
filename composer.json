@@ -28,4 +28,11 @@
             }
         }
     }
+    "repositories": [
+        {
+            "options": {
+                "symlink": false
+            }
+        }
+    ]
 }
